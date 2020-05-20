@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="199px" viewBox="0 0 200 199" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>img-cam-frame</title>
+    <desc>Created with Sketch.</desc>
+    <g id="UI-PWA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Scan" transform="translate(-88.000000, -61.000000)" fill="#FA7B00">
+            <g id="cam-frame">
+                <path d="M90,241 L90,253 C90,255.757 92.243,258 95,258 L107,258 L107,260 L95,260 C91.14,260 88,256.86 88,253 L88,241 L90,241 Z M288,241 L288,253 C288,256.86 284.86,260 281,260 L281,260 L269,260 L269,258 L281,258 C283.757,258 286,255.757 286,253 L286,253 L286,241 L288,241 Z M107,61 L107,63 L95,63 C92.243,63 90,65.243 90,68 L90,68 L90,80 L88,80 L88,68 C88,64.14 91.14,61 95,61 L95,61 L107,61 Z M281,61 C284.86,61 288,64.14 288,68 L288,80 L286,80 L286,68 C286,65.243 283.757,63 281,63 L269,63 L269,61 L281,61 Z" id="img-cam-frame"></path>
+            </g>
+        </g>
+    </g>
+</svg>

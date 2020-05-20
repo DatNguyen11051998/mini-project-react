@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>bt_radio_checked</title>
+    <desc>Created with Sketch.</desc>
+    <g id="UI-PWA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Checkout-Guest" transform="translate(-16.000000, -159.000000)" fill="#30A59C" fill-rule="nonzero">
+            <g id="Group-9" transform="translate(16.000000, 159.000000)">
+                <g id="Radio_checked" transform="translate(1.000000, 1.000000)">
+                    <path d="M11,0 C17.0751322,0 22,4.92486775 22,11 C22,17.0751322 17.0751322,22 11,22 C4.92486775,22 0,17.0751322 0,11 C0,4.92486775 4.92486775,0 11,0 Z M11,1.14782609 C5.5587946,1.14782609 1.14782609,5.5587946 1.14782609,11 C1.14782609,16.4412054 5.5587946,20.8521739 11,20.8521739 C16.4412054,20.8521739 20.8521739,16.4412054 20.8521739,11 C20.8521739,5.5587946 16.4412054,1.14782609 11,1.14782609 Z M11,5.73913043 C13.905498,5.73913043 16.2608696,8.09450197 16.2608696,11 C16.2608696,13.905498 13.905498,16.2608696 11,16.2608696 C8.09450197,16.2608696 5.73913043,13.905498 5.73913043,11 C5.73913043,8.09450197 8.09450197,5.73913043 11,5.73913043 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

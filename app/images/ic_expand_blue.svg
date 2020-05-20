@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>ic_expand_blue</title>
+    <desc>Created with Sketch.</desc>
+    <g id="UI-PWA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cart" transform="translate(-64.000000, -455.000000)">
+            <g id="Group-5" transform="translate(0.000000, 443.000000)">
+                <g id="Group-2" transform="translate(20.000000, 12.000000)">
+                    <g id="Group-7">
+                        <g id="Group-8" transform="translate(44.000000, 0.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                            <path d="M9.36523438,18.0048828 C9.54296875,18.0048828 9.69335938,17.9365234 9.80957031,17.8203125 L15.2304688,12.5224609 C15.3603516,12.3925781 15.4287109,12.2353516 15.4287109,12.0644531 C15.4287109,11.8867187 15.3603516,11.7226562 15.2304688,11.6064453 L9.81640625,6.31542969 C9.69335938,6.19238281 9.54296875,6.12402344 9.36523438,6.12402344 C9.00976562,6.12402344 8.74316406,6.39746094 8.74316406,6.75292969 C8.74316406,6.91699219 8.81152344,7.08105469 8.92089844,7.19726562 L13.8974609,12.0644531 L8.92089844,16.9316406 C8.81152344,17.0478516 8.74316406,17.2050781 8.74316406,17.3759766 C8.74316406,17.7314453 9.00976562,18.0048828 9.36523438,18.0048828 Z" id="ic_expand_blue" fill="#0091FF" fill-rule="nonzero" transform="translate(12.085938, 12.064453) rotate(-360.000000) translate(-12.085938, -12.064453) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
